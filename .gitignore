@@ -1,0 +1,3 @@
+myapp/node_modules
+*.log
+myapp/pnpm-lock.yaml
